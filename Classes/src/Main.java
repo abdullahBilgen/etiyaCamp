@@ -23,6 +23,8 @@ public class Main {
 			
 		}
 		
+		System.out.println("Ben java öðreniyorum.");
+		
 		
 		customerService.add("Engin", "Demiroð", 34, "engindemirog@gmail.com","Ýstanbul");
 		customerService.add("Özkan", "Demircan", 25, "ozkandemircan@gmail.com","Ýstanbul");
